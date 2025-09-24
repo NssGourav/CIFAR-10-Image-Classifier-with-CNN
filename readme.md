@@ -15,9 +15,6 @@ This project trains a simple CNN model to classify images into 10 categories:
 ├── main.ipynb          # Main Jupyter notebook with all code
 ├── models/             # Saved model files
 │   └── cnn_model.h5    # Trained CNN model
-├── results/            # Generated plots and visualizations
-│   ├── training_history.png
-│   └── sample_prediction.png
 ├── requirements.txt    # Python dependencies
 └── readme.md          # This file
 ```
@@ -60,11 +57,6 @@ The notebook is organized into 5 clear steps:
 - Visualizations saved as PNG files
 
 ## Features
-
-- ✅ Beginner-friendly code with clear comments
-- ✅ Step-by-step implementation
 - ✅ Data visualization
-- ✅ Training progress plots
 - ✅ Sample prediction with confidence scores
-- ✅ Model persistence
 - ✅ Results organization
